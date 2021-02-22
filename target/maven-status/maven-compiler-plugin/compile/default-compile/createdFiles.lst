@@ -1,0 +1,7 @@
+com\ibm\library\endpoint\BookInventoryEndpointImpl.class
+com\ibm\library\service\LibraryService.class
+com\ibm\library\endpoint\BookInventoryEndpoint.class
+com\ibm\library\rest\LibraryController.class
+com\ibm\library\service\LibraryServiceImpl.class
+com\ibm\library\model\BookData.class
+com\ibm\library\LibraryApplication.class
