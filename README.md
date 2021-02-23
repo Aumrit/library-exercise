@@ -1,3 +1,2 @@
 # library-exercise
-added to check automated job run on commit
-jjjjj
+added to check automated job run on com
